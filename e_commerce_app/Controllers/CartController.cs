@@ -1,13 +1,13 @@
 ﻿using e_commerce_app.Models;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Identity;
 
 namespace e_commerce_app.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     [Authorize]  // Kullanıcı doğrulaması yapılacak
     public class CartController : Controller
     {
@@ -51,7 +51,8 @@ namespace e_commerce_app.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddToCart(int productId)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> AddToCart([FromForm] int productId)
         {
             var user = await _userManager.GetUserAsync(User);
 
@@ -67,11 +68,6 @@ namespace e_commerce_app.Controllers
             }
             else
             {
-            Console.WriteLine("----------------");
-            Console.WriteLine("----------------");
-            Console.WriteLine(productId);
-            Console.WriteLine("----------------");
-            Console.WriteLine("----------------");
                 var newCartItem = new CartItem
                 {
                     ProductId = productId,

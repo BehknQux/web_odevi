@@ -28,6 +28,7 @@ public class OrderController : Controller
             .Where(o => o.UserId == userId)
             .Include(o => o.OrderItems)
             .ThenInclude(oi => oi.Product)
+            .OrderBy(o => o.Id)
             .ToList();
         return View(orders);
     }
@@ -60,10 +61,10 @@ public class OrderController : Controller
     // 3. Sipariş Oluşturma (POST)
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public IActionResult Create(DateTime date)
+    public async Task<IActionResult> Create(DateTime date)
     {
-        var userId = "1"; // Statik kullanıcı ID
-
+        var user = await _userManager.GetUserAsync(User);
+        var userId = user?.Id;
         // Kullanıcının sepet bilgilerini alıyoruz
         var cartItems = _context.CartItems
             .Where(c => c.UserId == userId)

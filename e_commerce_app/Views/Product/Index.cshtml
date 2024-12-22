@@ -21,7 +21,6 @@
                                 @foreach (var product in Model)
                                 {
                                     <div class="col">
-                                        @product.Id.GetType()
                                         <div class="product-item">
                                             <figure>
                                                 <a href="/Product/@product.Id" class="btn btn-link p-0">
@@ -50,7 +49,8 @@
                                                     @* </div> *@
                                                     <div>
                                                         <form method="post" asp-action="AddToCart" asp-controller="Cart" class="d-inline">
-                                                            <input type="hidden" name="productId" value="@product.Id"/>
+                                                            @Html.AntiForgeryToken()
+                                                            <input type="hidden" name="productId" class="form-control" value="@product.Id"/>
                                                             <button type="submit" class="btn btn-warning rounded-2">Add to Cart</button>
                                                         </form>
                                                     </div>

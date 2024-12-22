@@ -19,7 +19,7 @@ public class ProductController : Controller
 
     public IActionResult Index()
     {
-        var products = _context.Products.ToList(); 
+        var products = _context.Products.OrderBy(p => p.Id).ToList(); 
         return View(products);
     }
     
@@ -80,34 +80,4 @@ public class ProductController : Controller
 
         return RedirectToAction("Index");
     }
-    
-    [HttpPost]
-    [ValidateAntiForgeryToken]
-    public IActionResult AddToCart(int productId)
-    {
-        string userId = "1";
- 
-        var existingCartItem = _context.CartItems
-            .FirstOrDefault(ci => ci.ProductId == productId && ci.UserId == userId);
-
-        if (existingCartItem != null)
-        {
-            existingCartItem.Quantity ++;
-            _context.CartItems.Update(existingCartItem);
-        }
-        else
-        {
-            var cartItem = new CartItem
-            {
-                UserId = userId,
-                ProductId = productId,
-                Quantity = 1
-            };
-            _context.CartItems.Add(cartItem);
-        }
-
-        _context.SaveChanges();
-        return RedirectToAction("Index");
-    }
-
 }
