@@ -29,8 +29,43 @@ public class AccountController : Controller
     }
     
     [HttpGet]
+    public IActionResult Register()
+    {
+        return View();
+    }
+    
+    [HttpGet]
     public IActionResult ForgotPassword()
     {
+        return View();
+    }
+    
+    // Register POST
+    public async Task<IActionResult> Register(string username, string email, string password)
+    {
+        if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password))
+        {
+            ViewBag.Error = "All fields are required.";
+            return View();
+        }
+
+        var user = new IdentityUser
+        {
+            UserName = username,
+            Email = email
+        };
+
+        var result = await _userManager.CreateAsync(user, password);
+        if (result.Succeeded)
+        {
+            return RedirectToAction("Index", "Home");
+        }
+
+        foreach (var error in result.Errors)
+        {
+            ViewBag.Error += error.Description + " ";
+        }
+
         return View();
     }
 
@@ -85,5 +120,22 @@ public class AccountController : Controller
 
         // İşlem tamamlandığında kullanıcıyı login sayfasına yönlendirelim
         return RedirectToAction("Login", "Account");
+    }
+}
+
+public class PlainTextPasswordHasher<TUser> : IPasswordHasher<TUser> where TUser : class
+{
+    public string HashPassword(TUser user, string password)
+    {
+        // Şifreyi olduğu gibi döndürüyoruz (hashleme yapmıyoruz)
+        return password;
+    }
+
+    public PasswordVerificationResult VerifyHashedPassword(TUser user, string hashedPassword, string providedPassword)
+    {
+        // Hashlenmemiş şifreleri karşılaştırıyoruz
+        return hashedPassword == providedPassword
+            ? PasswordVerificationResult.Success
+            : PasswordVerificationResult.Failed;
     }
 }

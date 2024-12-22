@@ -1,3 +1,4 @@
+using e_commerce_app.Controllers;
 using e_commerce_app.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Session;
@@ -25,6 +26,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultTokenProviders();
+
+// Özel PasswordHasher
+builder.Services.AddScoped<IPasswordHasher<IdentityUser>, PlainTextPasswordHasher<IdentityUser>>();
 
 builder.Services.ConfigureApplicationCookie(options =>
 {

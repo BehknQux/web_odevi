@@ -101,7 +101,11 @@
             <ul class="list-group mb-3">
                 <li v-for="item in cartItems" :key="item.id" class="list-group-item d-flex justify-content-between lh-sm">
                     
-                    <div class="d-flex">
+                    <div class="d-flex align-items-center">
+                        <form asp-action="RemoveFromCart" asp-controller="Cart" method="post">
+                            <input type="hidden" name="productId" :value="item.id">
+                            <button class="btn btn-danger me-1">-</button>
+                        </form>
                         <div>{{item.quantity}}</div>
                         <h6 class="my-0">- {{item.name}}</h6>
                     </div>

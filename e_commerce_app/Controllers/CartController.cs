@@ -39,7 +39,8 @@ namespace e_commerce_app.Controllers
                 {
                     ci.Product.Name,
                     ci.Product.Price,
-                    ci.Quantity
+                    ci.Quantity,
+                    ci.Product.Id
                 }).ToListAsync();
 
             if (!cartItems.Any())
@@ -50,7 +51,7 @@ namespace e_commerce_app.Controllers
             return Ok(cartItems);
         }
 
-        [HttpPost]
+        [HttpPost("AddToCart")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddToCart([FromForm] int productId)
         {
@@ -80,5 +81,34 @@ namespace e_commerce_app.Controllers
 
             return RedirectToAction("Index", "Product");
         }
-    }
-}
+        
+        [HttpPost("RemoveFromCart")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RemoveFromCart([FromForm] int productId)
+        {
+            var user = await _userManager.GetUserAsync(User);
+            var userId = user?.Id;
+
+            var existingCartItem = await _context.CartItems 
+                .FirstOrDefaultAsync(ci => ci.UserId == userId && ci.ProductId == productId);
+
+            if (existingCartItem != null)
+            {
+                if (existingCartItem.Quantity > 1)
+                {
+                    existingCartItem.Quantity--;
+                    _context.CartItems.Update(existingCartItem);
+                }
+                else
+                {
+                    _context.CartItems.Remove(existingCartItem);
+                }
+
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToAction("Index", "Product");
+        }
+
+}}
+
