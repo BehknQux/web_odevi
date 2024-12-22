@@ -2481,11 +2481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\e_commerce_app.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\e_commerce_app.csproj",
       "projectName": "e_commerce_app",
-      "projectPath": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\e_commerce_app.csproj",
+      "projectPath": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\e_commerce_app.csproj",
       "packagesPath": "C:\\Users\\Ahmet Hamza Tok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\",
+      "outputPath": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [

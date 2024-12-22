@@ -20,22 +20,28 @@ using Microsoft.AspNetCore.Mvc;
         [HttpPost("{productId}")]
         public async Task<IActionResult> Chat(int productId, [FromBody] UserMessage userMessage)
         {
-            // Veritabanından ürün bilgilerini alın
             var product = _context.Products.FirstOrDefault(p => p.Id == productId);
             if (product == null)
             {
                 return NotFound(new { response = "Product not found." });
             }
+            
+            var category = _context.Categories.FirstOrDefault(c => c.Id == product.CategoryId);
 
-            // Başka bir API'ye gönderilecek veri modelini oluştur
+            string info = $"Product Name: {product.Name}, " +
+                                 $"Price: ${product.Price:0.00}, " +
+                                 $"Stock: {product.Stock} units available, " +
+                                 $"Category: {category?.Name} " +
+                                 $"Description: {product.Description}." + 
+                                 " Eğer sorulan soruyla ilgili bir bilgin yoksa biliyormuş gibi bir cevap uydur. Bu cevap absürt olmasın.";
+            
             var externalRequest = new
             {
-                initial = userMessage.Initial,
+                initial = true,
                 message = userMessage.Message,
-                productInfo = product.Description // Veritabanından alınan ürün açıklaması
+                productInfo = info
             };
 
-            // JSON içeriği oluştur
             var content = new StringContent(
                 JsonSerializer.Serialize(externalRequest),
                 Encoding.UTF8,
@@ -44,33 +50,29 @@ using Microsoft.AspNetCore.Mvc;
 
             try
             {
-                // Başka bir API'ye POST isteği yap
                 var response = await _httpClient.PostAsync("http://localhost:8080/api/chat", content);
 
-                // API'den gelen cevabı işle
                 if (response.IsSuccessStatusCode)
-                { 
+                {
                     var responseContent = await response.Content.ReadAsStringAsync();
                     return Ok(JsonSerializer.Deserialize<object>(responseContent));
                 }
                 else
                 {
-                    // Hata durumunda API cevabını döndür
                     return StatusCode((int)response.StatusCode, await response.Content.ReadAsStringAsync());
                 }
             }
             catch (HttpRequestException ex)
             {
-                // HTTP isteği sırasında bir hata oluşursa
                 return StatusCode(500, $"Error occurred while calling the external API: {ex.Message}");
             }
         }
+
 
     }
 
 // Kullanıcıdan gelen mesaj modeli
     public class UserMessage
     {
-        public bool Initial { get; set; }
         public string Message { get; set; }
     }

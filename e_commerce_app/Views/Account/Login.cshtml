@@ -1,5 +1,6 @@
 ﻿@{
     Layout = "~/Views/Shared/_LoginLayout.cshtml"; // Login Layout kullanımı
+    var errorText = @ViewBag.Error;
 }
 
 <section class="py-5">
@@ -31,5 +32,10 @@
                 </div>
             </div>
         </div>
+        
+    </div>
+    
+    <div class="mt-5 d-flex justify-content-center">
+        @errorText
     </div>
 </section>

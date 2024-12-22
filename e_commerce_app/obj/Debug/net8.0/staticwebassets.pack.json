@@ -1,515 +1,515 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\e_commerce_app.bundle.scp.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\e_commerce_app.bundle.scp.css",
       "PackagePath": "staticwebassets\\e_commerce_app.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\ajax-loader.gif",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\normalize.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\normalize.css",
       "PackagePath": "staticwebassets\\css\\normalize.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\vendor.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\vendor.css",
       "PackagePath": "staticwebassets\\css\\vendor.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-bg-pattern.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-bg-pattern.png",
       "PackagePath": "staticwebassets\\images\\ad-bg-pattern.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-1.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-1.png",
       "PackagePath": "staticwebassets\\images\\ad-image-1.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-2.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-2.png",
       "PackagePath": "staticwebassets\\images\\ad-image-2.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-3.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-3.png",
       "PackagePath": "staticwebassets\\images\\ad-image-3.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-4.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-4.png",
       "PackagePath": "staticwebassets\\images\\ad-image-4.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\app-store.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\app-store.jpg",
       "PackagePath": "staticwebassets\\images\\app-store.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\background-pattern.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\background-pattern.jpg",
       "PackagePath": "staticwebassets\\images\\background-pattern.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\banner-image-1.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\banner-image-1.jpg",
       "PackagePath": "staticwebassets\\images\\banner-image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\banner-image-2.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\banner-image-2.jpg",
       "PackagePath": "staticwebassets\\images\\banner-image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-dot-pattern.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-dot-pattern.png",
       "PackagePath": "staticwebassets\\images\\bg-dot-pattern.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-leaves-img-pattern.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-leaves-img-pattern.png",
       "PackagePath": "staticwebassets\\images\\bg-leaves-img-pattern.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-leaves-pattern.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-leaves-pattern.png",
       "PackagePath": "staticwebassets\\images\\bg-leaves-pattern.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-light.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-light.jpg",
       "PackagePath": "staticwebassets\\images\\bg-light.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-pattern-2.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-pattern-2.png",
       "PackagePath": "staticwebassets\\images\\bg-pattern-2.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\close.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\close.png",
       "PackagePath": "staticwebassets\\images\\chocolat\\close.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen-black.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen-black.png",
       "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen-black.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen.png",
       "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\left.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\left.png",
       "PackagePath": "staticwebassets\\images\\chocolat\\left.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\loader.gif",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\loader.gif",
       "PackagePath": "staticwebassets\\images\\chocolat\\loader.gif"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\right.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\right.png",
       "PackagePath": "staticwebassets\\images\\chocolat\\right.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\defaultProduct.webp",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\defaultProduct.webp",
       "PackagePath": "staticwebassets\\images\\defaultProduct.webp"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\gift.svg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\gift.svg",
       "PackagePath": "staticwebassets\\images\\gift.svg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\google-play.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\google-play.jpg",
       "PackagePath": "staticwebassets\\images\\google-play.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-animal-products-drumsticks.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-animal-products-drumsticks.png",
       "PackagePath": "staticwebassets\\images\\icon-animal-products-drumsticks.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-bread-baguette.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-bread-baguette.png",
       "PackagePath": "staticwebassets\\images\\icon-bread-baguette.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-bread-herb-flour.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-bread-herb-flour.png",
       "PackagePath": "staticwebassets\\images\\icon-bread-herb-flour.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-soft-drinks-bottle.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-soft-drinks-bottle.png",
       "PackagePath": "staticwebassets\\images\\icon-soft-drinks-bottle.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-vegetables-broccoli.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-vegetables-broccoli.png",
       "PackagePath": "staticwebassets\\images\\icon-vegetables-broccoli.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-wine-glass-bottle.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-wine-glass-bottle.png",
       "PackagePath": "staticwebassets\\images\\icon-wine-glass-bottle.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\phone.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\phone.png",
       "PackagePath": "staticwebassets\\images\\phone.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\post-thumb-1.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\post-thumb-1.jpg",
       "PackagePath": "staticwebassets\\images\\post-thumb-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\post-thumb-2.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\post-thumb-2.jpg",
       "PackagePath": "staticwebassets\\images\\post-thumb-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\post-thumb-3.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\post-thumb-3.jpg",
       "PackagePath": "staticwebassets\\images\\post-thumb-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-1.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-1.png",
       "PackagePath": "staticwebassets\\images\\product-thumb-1.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-11.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-11.jpg",
       "PackagePath": "staticwebassets\\images\\product-thumb-11.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-12.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-12.jpg",
       "PackagePath": "staticwebassets\\images\\product-thumb-12.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-13.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-13.jpg",
       "PackagePath": "staticwebassets\\images\\product-thumb-13.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-14.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-14.jpg",
       "PackagePath": "staticwebassets\\images\\product-thumb-14.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-2.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-2.png",
       "PackagePath": "staticwebassets\\images\\product-thumb-2.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\reviewer-1.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\reviewer-1.jpg",
       "PackagePath": "staticwebassets\\images\\reviewer-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\reviewer-2.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\reviewer-2.jpg",
       "PackagePath": "staticwebassets\\images\\reviewer-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\reviewer-3.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\reviewer-3.jpg",
       "PackagePath": "staticwebassets\\images\\reviewer-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\singel-product-item.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\singel-product-item.jpg",
       "PackagePath": "staticwebassets\\images\\singel-product-item.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-1.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-1.jpg",
       "PackagePath": "staticwebassets\\images\\slide-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-2.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-2.jpg",
       "PackagePath": "staticwebassets\\images\\slide-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-3.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-3.jpg",
       "PackagePath": "staticwebassets\\images\\slide-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-4.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-4.jpg",
       "PackagePath": "staticwebassets\\images\\slide-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-avocado.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-avocado.png",
       "PackagePath": "staticwebassets\\images\\thumb-avocado.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-bananas.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-bananas.png",
       "PackagePath": "staticwebassets\\images\\thumb-bananas.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-biscuits.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-biscuits.png",
       "PackagePath": "staticwebassets\\images\\thumb-biscuits.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-cucumber.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-cucumber.png",
       "PackagePath": "staticwebassets\\images\\thumb-cucumber.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-herb.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-herb.jpg",
       "PackagePath": "staticwebassets\\images\\thumb-herb.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-honey.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-honey.jpg",
       "PackagePath": "staticwebassets\\images\\thumb-honey.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-junk.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-junk.jpg",
       "PackagePath": "staticwebassets\\images\\thumb-junk.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-milk.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-milk.png",
       "PackagePath": "staticwebassets\\images\\thumb-milk.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-orange-juice.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-orange-juice.png",
       "PackagePath": "staticwebassets\\images\\thumb-orange-juice.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-raspberries.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-raspberries.png",
       "PackagePath": "staticwebassets\\images\\thumb-raspberries.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-tomatoes.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-tomatoes.png",
       "PackagePath": "staticwebassets\\images\\thumb-tomatoes.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-tomatoketchup.png",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-tomatoketchup.png",
       "PackagePath": "staticwebassets\\images\\thumb-tomatoketchup.png"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-tuna.jpg",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-tuna.jpg",
       "PackagePath": "staticwebassets\\images\\thumb-tuna.jpg"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\jquery-1.11.0.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\modernizr.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\modernizr.js",
       "PackagePath": "staticwebassets\\js\\modernizr.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\plugins.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

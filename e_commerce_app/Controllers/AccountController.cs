@@ -1,16 +1,25 @@
-﻿using System.Text;
+﻿using System.Security.Claims;
+using System.Text;
+using e_commerce_app.Models;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace e_commerce_app.Controllers;
 
 public class AccountController : Controller
 {
     private readonly SignInManager<IdentityUser> _signInManager;
+    private readonly UserManager<IdentityUser> _userManager;
+    private readonly ApplicationDbContext _context;
 
-    public AccountController(SignInManager<IdentityUser> signInManager)
+    public AccountController(SignInManager<IdentityUser> signInManager, UserManager<IdentityUser> userManager, ApplicationDbContext context)
     {
         _signInManager = signInManager;
+        _context = context;
+        _userManager = userManager;
     }
 
     [HttpGet]
@@ -28,15 +37,22 @@ public class AccountController : Controller
     [HttpPost]
     public async Task<IActionResult> Login(string email, string password)
     {
-        var result = await _signInManager.PasswordSignInAsync(email, password, false, false);
+        var user = await _userManager.FindByEmailAsync(email);
 
-        if (result.Succeeded)
+        if (user == null)
         {
-            return RedirectToAction("Index", "Home");
+            ViewBag.Error = "User not found.";
+            return View();
         }
+        
+        if (user.PasswordHash != password)
+        {
+            ViewBag.Error = "Invalid password.";
+            return View();
+        }
+        await _signInManager.SignInAsync(user, isPersistent: true);
 
-        ViewBag.Error = "Invalid email or password.";
-        return View();
+        return RedirectToAction("Index", "Home");
     }
 
     public async Task<IActionResult> Logout()

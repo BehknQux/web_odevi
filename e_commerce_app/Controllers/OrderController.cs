@@ -1,22 +1,29 @@
 ﻿using e_commerce_app.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace e_commerce_app.Controllers;
 
+[Authorize]
 public class OrderController : Controller
 {
     private readonly ApplicationDbContext _context;
+    private readonly UserManager<IdentityUser> _userManager;
 
-    public OrderController(ApplicationDbContext context)
+    public OrderController(ApplicationDbContext context, UserManager<IdentityUser> userManager)
     {
         _context = context;
+        _userManager = userManager;
     }
 
     // 1. Sipariş Listeleme
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
-        var userId = "1";
+        var user = await _userManager.GetUserAsync(User);
+        var userId = user?.Id;
+        
         var orders = _context.Orders
             .Where(o => o.UserId == userId)
             .Include(o => o.OrderItems)
@@ -27,9 +34,10 @@ public class OrderController : Controller
 
     // 2. Sipariş Oluşturma (GET)
     [HttpGet]
-    public IActionResult Create()
+    public async Task<IActionResult> Create()
     {
-        var userId = "1"; // Statik kullanıcı ID
+        var user = await _userManager.GetUserAsync(User);
+        var userId = user?.Id;
 
         // Kullanıcının sepet bilgilerini alıyoruz
         var cartItems = _context.CartItems

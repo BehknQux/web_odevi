@@ -117,7 +117,7 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser>
             NormalizedEmail = "ADMIN@ADMIN.COM",
             EmailConfirmed = true
         };
-        adminUser.PasswordHash = hasher.HashPassword(adminUser, "Admin123!");
+        adminUser.PasswordHash = "Admin123!";
 
         var normalUser = new IdentityUser
         {
@@ -128,7 +128,7 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser>
             NormalizedEmail = "ATESGOLEMI@GMAIL.COM",
             EmailConfirmed = true
         };
-        normalUser.PasswordHash = hasher.HashPassword(normalUser, "hamza");
+        normalUser.PasswordHash = "hamza";
 
         // Add Users to Model
         modelBuilder.Entity<IdentityUser>().HasData(adminUser, normalUser);

@@ -44,23 +44,18 @@ namespace e_commerce_app.Controllers
 
             if (!cartItems.Any())
             {
-                return NotFound("No items found in your cart.");
+                return NotFound("No items found in your cart."); 
             }
 
             return Ok(cartItems);
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddToCart(int productId)
         {
             var user = await _userManager.GetUserAsync(User);
-            if (user == null)
-            {
-                return Unauthorized("User not authenticated.");
-            }
 
-            var userId = "1";
+            var userId = user?.Id;
 
             var existingCartItem = await _context.CartItems
                 .FirstOrDefaultAsync(ci => ci.UserId == userId && ci.ProductId == productId);
@@ -72,6 +67,11 @@ namespace e_commerce_app.Controllers
             }
             else
             {
+            Console.WriteLine("----------------");
+            Console.WriteLine("----------------");
+            Console.WriteLine(productId);
+            Console.WriteLine("----------------");
+            Console.WriteLine("----------------");
                 var newCartItem = new CartItem
                 {
                     ProductId = productId,
@@ -80,15 +80,7 @@ namespace e_commerce_app.Controllers
                 };
                 _context.CartItems.Add(newCartItem);
             }
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (Exception)
-            {
-                return StatusCode(500, "Internal server error");
-            }
+            await _context.SaveChangesAsync();
 
             return RedirectToAction("Index", "Product");
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KjlfiDpDkRoJ2Fi2PAKDUi3o/J35gitN2/32SErxYOg=",
+  "Hash": "zfG6Dl6nzkf0Rv6P50KCs6rENd2b5l73CN3NGXhBjtQ=",
   "Source": "e_commerce_app",
   "BasePath": "_content/e_commerce_app",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "e_commerce_app\\wwwroot",
       "Source": "e_commerce_app",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\e_commerce_app.styles.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\e_commerce_app.styles.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "e_commerce_app.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\e_commerce_app.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\e_commerce_app.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\e_commerce_app.bundle.scp.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\e_commerce_app.bundle.scp.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "e_commerce_app.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\e_commerce_app.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\e_commerce_app.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\ajax-loader.gif",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\ajax-loader.gif",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "css/ajax-loader.gif",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\normalize.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\normalize.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "css/normalize.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\normalize.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\style.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\css\\vendor.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\css\\vendor.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "css/vendor.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\favicon.ico",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-bg-pattern.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-bg-pattern.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/ad-bg-pattern.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad-bg-pattern.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-1.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-1.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/ad-image-1.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad-image-1.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-2.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-2.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/ad-image-2.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad-image-2.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-3.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-3.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/ad-image-3.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad-image-3.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\ad-image-4.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\ad-image-4.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/ad-image-4.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad-image-4.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\app-store.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\app-store.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/app-store.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\app-store.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\background-pattern.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\background-pattern.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/background-pattern.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background-pattern.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\banner-image-1.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\banner-image-1.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/banner-image-1.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-image-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\banner-image-2.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\banner-image-2.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/banner-image-2.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-image-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-dot-pattern.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-dot-pattern.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/bg-dot-pattern.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-dot-pattern.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-leaves-img-pattern.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-leaves-img-pattern.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/bg-leaves-img-pattern.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-leaves-img-pattern.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-leaves-pattern.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-leaves-pattern.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/bg-leaves-pattern.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-leaves-pattern.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-light.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-light.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/bg-light.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-light.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\bg-pattern-2.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\bg-pattern-2.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/bg-pattern-2.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-pattern-2.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\close.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\close.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/chocolat/close.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chocolat\\close.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen-black.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen-black.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/chocolat/fullscreen-black.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chocolat\\fullscreen-black.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\fullscreen.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/chocolat/fullscreen.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chocolat\\fullscreen.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\left.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\left.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/chocolat/left.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chocolat\\left.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\loader.gif",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\loader.gif",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/chocolat/loader.gif",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chocolat\\loader.gif"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\chocolat\\right.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\chocolat\\right.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/chocolat/right.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chocolat\\right.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\defaultProduct.webp",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\defaultProduct.webp",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/defaultProduct.webp",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\defaultProduct.webp"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\gift.svg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\gift.svg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/gift.svg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gift.svg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\google-play.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\google-play.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/google-play.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\google-play.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-animal-products-drumsticks.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-animal-products-drumsticks.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/icon-animal-products-drumsticks.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-animal-products-drumsticks.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-bread-baguette.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-bread-baguette.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/icon-bread-baguette.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-bread-baguette.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-bread-herb-flour.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-bread-herb-flour.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/icon-bread-herb-flour.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-bread-herb-flour.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-soft-drinks-bottle.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-soft-drinks-bottle.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/icon-soft-drinks-bottle.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-soft-drinks-bottle.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-vegetables-broccoli.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-vegetables-broccoli.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/icon-vegetables-broccoli.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-vegetables-broccoli.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\icon-wine-glass-bottle.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\icon-wine-glass-bottle.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/icon-wine-glass-bottle.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-wine-glass-bottle.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\logo.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\phone.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\phone.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/phone.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\phone.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\post-thumb-1.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\post-thumb-1.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/post-thumb-1.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-thumb-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\post-thumb-2.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\post-thumb-2.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/post-thumb-2.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-thumb-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\post-thumb-3.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\post-thumb-3.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/post-thumb-3.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-1.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-1.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/product-thumb-1.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-thumb-1.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-11.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-11.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/product-thumb-11.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-thumb-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-12.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-12.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/product-thumb-12.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-thumb-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-13.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-13.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/product-thumb-13.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-thumb-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-14.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-14.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/product-thumb-14.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-thumb-14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\product-thumb-2.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\product-thumb-2.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/product-thumb-2.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-thumb-2.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\reviewer-1.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\reviewer-1.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/reviewer-1.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\reviewer-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\reviewer-2.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\reviewer-2.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/reviewer-2.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\reviewer-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\reviewer-3.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\reviewer-3.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/reviewer-3.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\reviewer-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\singel-product-item.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\singel-product-item.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/singel-product-item.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\singel-product-item.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-1.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-1.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/slide-1.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-2.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-2.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/slide-2.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-3.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-3.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/slide-3.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\slide-4.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\slide-4.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/slide-4.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-avocado.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-avocado.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-avocado.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-avocado.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-bananas.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-bananas.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-bananas.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-bananas.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-biscuits.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-biscuits.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-biscuits.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-biscuits.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-cucumber.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-cucumber.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-cucumber.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-cucumber.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-herb.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-herb.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-herb.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-herb.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-honey.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-honey.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-honey.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-honey.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-junk.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-junk.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-junk.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-junk.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-milk.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-milk.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-milk.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-milk.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-orange-juice.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-orange-juice.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-orange-juice.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-orange-juice.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-raspberries.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-raspberries.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-raspberries.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-raspberries.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-tomatoes.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-tomatoes.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-tomatoes.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-tomatoes.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-tomatoketchup.png",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-tomatoketchup.png",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-tomatoketchup.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-tomatoketchup.png"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\images\\thumb-tuna.jpg",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\images\\thumb-tuna.jpg",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "images/thumb-tuna.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-tuna.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\jquery-1.11.0.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "js/jquery-1.11.0.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\modernizr.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\modernizr.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "js/modernizr.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizr.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\plugins.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\plugins.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "js/plugins.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\js\\script.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "e_commerce_app",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\RiderProjects\\e_commerce_app\\e_commerce_app\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ahmet Hamza Tok\\Desktop\\web_odevi\\e_commerce_app\\wwwroot\\",
       "BasePath": "_content/e_commerce_app",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

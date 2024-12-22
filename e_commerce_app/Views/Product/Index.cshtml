@@ -21,6 +21,7 @@
                                 @foreach (var product in Model)
                                 {
                                     <div class="col">
+                                        @product.Id.GetType()
                                         <div class="product-item">
                                             <figure>
                                                 <a href="/Product/@product.Id" class="btn btn-link p-0">
@@ -30,9 +31,9 @@
                                             <h3>@product.Name</h3>
                                             <span class="price">$@product.Price.ToString("0.00")</span>
                                             <div class="d-flex">
-                                            <a href="/Product/CreateOrEdit/@product.Id" class="btn btn-primary btn-sm px-3 rounded-pill align-items-center d-flex">
-                                                Edit
-                                            </a>
+                                                <a href="/Product/CreateOrEdit/@product.Id" class="btn btn-primary btn-sm px-3 rounded-pill align-items-center d-flex">
+                                                    Edit
+                                                </a>
                                                 <div class="d-flex align-items-center justify-content-between">
                                                     @* <div class="input-group product-qty"> *@
                                                     @*     <span class="input-group-btn"> *@
@@ -47,14 +48,14 @@
                                                     @*         </button> *@
                                                     @*     </span> *@
                                                     @* </div> *@
-                                            <form method="post" asp-action="AddToCart" asp-controller="Cart" class="d-inline">
-                                                <div>
-                                                    <input type="hidden" name="productId" value="@product.Id"/>
-                                                    <button type="submit" class="btn btn-warning rounded-2">Add to Cart</button>
+                                                    <div>
+                                                        <form method="post" asp-action="AddToCart" asp-controller="Cart" class="d-inline">
+                                                            <input type="hidden" name="productId" value="@product.Id"/>
+                                                            <button type="submit" class="btn btn-warning rounded-2">Add to Cart</button>
+                                                        </form>
+                                                    </div>
                                                 </div>
-                                            </form>
-                                                </div>
-                                        </div></div>
+                                            </div></div>
                                     </div>
                                 }
                             </div>
