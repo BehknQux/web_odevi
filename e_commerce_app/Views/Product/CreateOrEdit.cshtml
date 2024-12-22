@@ -1,0 +1,80 @@
+﻿@model e_commerce_app.Models.Product
+
+<section class="py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card shadow-lg border-0 rounded-4">
+                    <div class="card-body">
+                        <h2 class="text-center mb-4">
+                            @(Model.Id == 0 ? "Add New Product" : "Edit Product")
+                        </h2>
+
+                        <form asp-action="CreateOrEdit" method="post">
+                            @Html.AntiForgeryToken()
+                            @if (Model.Id != 0)
+                            {
+                                <input type="hidden" asp-for="Id"/>
+                            }
+
+                            <div class="mb-3">
+                                <label asp-for="Name" class="form-label">Product Name</label>
+                                <input asp-for="Name" class="form-control"/>
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Description" class="form-label">Description</label>
+                                <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Price" class="form-label">Price</label>
+                                <input asp-for="Price" class="form-control" type="number" step="0.01"/>
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Stock" class="form-label">Stock</label>
+                                <input asp-for="Stock" class="form-control" type="number"/>
+                                <span asp-validation-for="Stock" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label">Category</label>
+                                <select asp-for="CategoryId" class="form-select">
+                                    <option value="" disabled selected>Select a category</option>
+                                    @foreach (var category in (ViewBag.Categories as List<e_commerce_app.Models.Category>)!)
+                                    {
+                                        <option value="@category.Id" selected="@(category.Id == Model.CategoryId ? "selected" : null)">
+                                            @category.Name
+                                        </option>
+                                    }
+                                </select>
+                                <span asp-validation-for="CategoryId" class="text-danger"></span>
+                            </div>
+
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary px-5 py-2 rounded-pill">
+                                    @(Model.Id == 0 ? "Add Product" : "Update Product")
+                                </button>
+                                <a href="/product" class="btn btn-secondary px-5 py-2 rounded-pill">Cancel</a>
+                            </div>
+                        </form>
+                        @if (Model.Id != 0)
+                        {
+                            <div class="text-center mt-3">
+                                <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this product?');">
+                                    @Html.AntiForgeryToken()
+                                    <input type="hidden" asp-for="Id" />
+                                    <button type="submit" class="btn btn-danger px-5 py-2 rounded-pill">Delete Product</button>
+                                </form>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,58 @@
+﻿@model List<e_commerce_app.Models.CartItem>
+
+<section class="py-5 my-5">
+    <div class="container">
+        <div class="card shadow-lg border-0">
+            <div class="card-body">
+                <h2 class="mb-4 text-center">Your Cart</h2>
+                @if (Model.Any())
+                {
+                    <table class="table table-bordered">
+                        <thead class="table-dark">
+                        <tr>
+                            <th>Product</th>
+                            <th>Quantity</th>
+                            <th>Price</th>
+                            <th>Total</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Product.Name</td>
+                                <td>@item.Quantity</td>
+                                <td>$@item.Product.Price.ToString("0.00")</td>
+                                <td>$@(item.Quantity * item.Product.Price).ToString("0.00")</td>
+                            </tr>
+                        }
+                        </tbody>
+                        <tfoot>
+                        <tr>
+                            <td colspan="3" class="text-end fw-bold">Total Amount</td>
+                            <td class="fw-bold">$@Model.Sum(i => i.Quantity * i.Product.Price).ToString("0.00")</td>
+                        </tr>
+                        </tfoot>
+                    </table>
+                }
+                else
+                {
+                    <p class="text-muted text-center">Your cart is empty.</p>
+                }
+
+                <!-- Tarih Seçimi -->
+                <div class="my-4">
+                    <h4 class="text-center">Order Date</h4>
+                    <form method="post" asp-action="Create" asp-controller="Order">
+                        <div class="mb-3 text-center">
+                            <input name="date" type="datetime-local" class="form-control w-50 mx-auto" required />
+                        </div>
+                        <div class="text-center mt-4">
+                            <button class="btn btn-primary btn-lg px-5" type="submit">Order Now</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

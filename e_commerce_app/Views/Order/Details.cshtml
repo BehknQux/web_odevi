@@ -1,0 +1,48 @@
+﻿@model e_commerce_app.Models.Order
+
+<section class="py-5 my-5" id="app">
+    <div class="container">
+        <div class="card shadow-lg border-0 rounded-4">
+            <div class="row g-0">
+                <!-- Sipariş Bilgileri -->
+                <div class="col-md-12 d-flex flex-column justify-content-center">
+                    <div class="card-body">
+                        <h1 class="card-title display-5 fw-bold mb-3">Order #@Model.Id</h1>
+                        <div class="mb-3">
+                            Order Date: <span class="badge bg-primary fs-6 px-3 py-2">@Model.OrderDate.ToString("yyyy-MM-dd HH:mm")</span>
+                        </div>
+                        <div class="mb-3">
+                            <h4 class="fw-bold">Order Items:</h4>
+                            <ul class="list-group">
+                                @foreach (var item in Model.OrderItems)
+                                {
+                                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <strong>@item.Product.Name</strong> (@item.Quantity)
+                                            <span class="text-muted"> - $@item.Price.ToString("0.00")</span>
+                                        </div>
+                                        <span class="badge bg-success fs-6 px-3 py-2">
+                                            $@((item.Quantity * item.Price).ToString("0.00"))
+                                        </span>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                        <div class="mb-4">
+                            <h3 class="text-primary fw-bold">Total Amount: $@Model.OrderItems.Sum(i => i.Quantity * i.Price).ToString("0.00")</h3>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <a href="/order" class="btn btn-outline-secondary btn-lg px-4 rounded-pill">Back to Orders</a>
+                            <form method="post" asp-action="Delete" asp-controller="Order" class="d-inline">
+                                <input type="hidden" name="id" value="@Model.Id" />
+                                <button type="submit" class="btn btn-danger btn-lg px-4 rounded-pill">
+                                    Delete Order
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
